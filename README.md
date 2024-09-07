@@ -1,2 +1,3 @@
-# L4B-Templates
-Jethro's repository for Templates Lab 
+# L4B-CodeTemplates
+
+Jethro's repository for Code Templates Lab
